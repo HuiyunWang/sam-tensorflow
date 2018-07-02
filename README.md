@@ -6,6 +6,9 @@ Huiyun Wang, Youjiang Xu, Yahong Han. "Spoting and Aggregating Salient Regions f
 ## Reference
 
 ## Framework
+![](https://github.com/HuiyunWang/sam-tensorflow/blob/master/framework.png)
+
+This is an implementation of our method in tensorflow 1.2.
 
 ## Datasets
 The datasets used in the paper are available at the following links:
@@ -19,3 +22,6 @@ Montreal Video Annotation Description (M-VAD) Dataset:
 ## Training
 
 ## Examples
+![](https://github.com/HuiyunWang/sam-tensorflow/blob/master/visualization.png)
+
+Some examples of our method.
