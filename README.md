@@ -12,7 +12,7 @@ If you find this useful in your work, please consider citing the following refer
     booktitle = {Proceedings of the ACM International Conference on Multimedia (ACM MM)},
     year = {2018}
 }
-`ccc
+```
 
 ## Framework
 ![](https://github.com/HuiyunWang/sam-tensorflow/blob/master/figure/framework.png)
