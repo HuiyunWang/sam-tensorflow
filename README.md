@@ -20,7 +20,7 @@ If you find this useful in your work, please consider citing the following refer
 ## Framework
 ![](https://github.com/HuiyunWang/sam-tensorflow/blob/master/figure/framework.png)
 
-The framework of our method. We firstly extract feature maps from the convolutional layer of CNN. Then, in the ‘Spot Module’, we automatically learn the saliency value of each location to separate salient regions from video content as the foreground and the rest as background by two operations of ‘hard separation’ and ‘soft separation’, respectively. To aggregate the foreground/background descriptors into a discriminative spatio-temporal representation, in the ‘Aggregate Module’, we devise a trainable video VLAD process to learn the aggregation parameters. Finally, we utilize the attention mechanism to decode the spatio-temporal representations of diﬀerent regions into video description.
+The framework of our method.
 
 ## Datasets
 The datasets used in the paper are available at the following links:
