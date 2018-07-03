@@ -27,9 +27,9 @@ The datasets used in the paper are available at the following links:
 [Data Page](http://www.mila.umontreal.ca/Home/public-datasets/montreal-video-annotation-dataset)
 
 ## Training
-### Some requires for this code running
+Some requires for this code running
 
-### The scrips for training and testing of our method can be seen [run.sh](https://github.com/HuiyunWang/sam-tensorflow/blob/master/run.sh)
+The scrips for training and testing of our method can be seen [run.sh](https://github.com/HuiyunWang/sam-tensorflow/blob/master/run.sh)
 
 
 ## Examples
