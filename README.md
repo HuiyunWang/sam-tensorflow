@@ -1,7 +1,7 @@
 # sam-tensorflow
 
 ## Paper
-Huiyun Wang, Youjiang Xu, Yahong Han. "Spoting and Aggregating Salient Regions for Video Captioning"
+Huiyun Wang, Youjiang Xu, [Yahong Han](http://cs.tju.edu.cn/faculty/hanyahong/). "Spoting and Aggregating Salient Regions for Video Captioning"
 
 ## Reference
 If you find this useful in your work, please consider citing the following reference:
