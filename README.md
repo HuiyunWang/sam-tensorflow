@@ -5,6 +5,7 @@ Huiyun Wang, Youjiang Xu, Yahong Han. "Spoting and Aggregating Salient Regions f
 
 ## Reference
 If you find this useful in your work, please consider citing the following reference:
+```c
 @inproceedings{samwangMM18,
     title = {Spoting and Aggregating Salient Regions for Video Captioning},
     author = {Wang, Huiyun and Xu, Youjiang and Han, Yahong},
