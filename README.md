@@ -5,13 +5,14 @@ Huiyun Wang, Youjiang Xu, Yahong Han. "Spoting and Aggregating Salient Regions f
 
 ## Reference
 If you find this useful in your work, please consider citing the following reference:
-```c
+```bash
 @inproceedings{samwangMM18,
     title = {Spoting and Aggregating Salient Regions for Video Captioning},
     author = {Wang, Huiyun and Xu, Youjiang and Han, Yahong},
     booktitle = {Proceedings of the ACM International Conference on Multimedia (ACM MM)},
     year = {2018}
 }
+```
 
 ## Framework
 ![](https://github.com/HuiyunWang/sam-tensorflow/blob/master/figure/framework.png)
